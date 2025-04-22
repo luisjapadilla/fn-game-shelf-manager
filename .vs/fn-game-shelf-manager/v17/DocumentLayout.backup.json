@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|solutionrelative:fn-game-shelf-manager\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{438B0413-59C4-4AF7-A29E-0E72E79B9DB5}|GameShelfManager.Test\\GameShelfManager.Test.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438B0413-59C4-4AF7-A29E-0E72E79B9DB5}|GameShelfManager.Test\\GameShelfManager.Test.csproj|solutionrelative:gameshelfmanager.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +31,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Function1.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\Function1.cs",
-              "RelativeDocumentMoniker": "fn-game-shelf-manager\\Function1.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\Function1.cs",
-              "RelativeToolTip": "fn-game-shelf-manager\\Function1.cs",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GameShelfManager.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Test\\UnitTest1.cs",
+              "RelativeToolTip": "GameShelfManager.Test\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T03:15:25.689Z",
+              "WhenOpened": "2025-04-22T03:25:19.115Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
