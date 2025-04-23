@@ -1601,6 +1601,16 @@
             "rid": "win"
           }
         }
+      },
+      "GameShelfManager.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GameShelfManager.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameShelfManager.Domain.dll": {}
+        }
       }
     }
   },
@@ -4712,10 +4722,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "GameShelfManager.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GameShelfManager.Domain/GameShelfManager.Domain.csproj",
+      "msbuildProject": "../GameShelfManager.Domain/GameShelfManager.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "GameShelfManager.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.4"
@@ -4752,7 +4768,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\GameShelfManager.Domain.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\GameShelfManager.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

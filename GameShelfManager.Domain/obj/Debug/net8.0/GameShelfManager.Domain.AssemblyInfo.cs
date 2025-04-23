@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameShelfManager.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b643acf7f1f6c101ff2ba1c0f3201cd0f55326d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f38968e7bd3bb48a785f1d7c10e543266755f62")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameShelfManager.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameShelfManager.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
