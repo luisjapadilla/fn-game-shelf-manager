@@ -1,13 +1,19 @@
-using Microsoft.Azure.Functions.Worker.Builder;
+using GameShelfManager.DataAccess.Data;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-var builder = FunctionsApplication.CreateBuilder(args);
+var host = new HostBuilder()
+    .ConfigureServices((context, services) =>
+    {
+        var connectionString = Environment.GetEnvironmentVariable("connDb")
+                             ?? "Server=(localdb)\\mssqllocaldb;Database=GameShelfDb;Trusted_Connection=True;";
 
-builder.ConfigureFunctionsWebApplication();
+        services.AddDbContext<GameShelfContext>(options =>
+        {
+            options.UseSqlServer(connectionString);
+        });
+    })
+    .Build();
 
-// Application Insights isn't enabled by default. See https://aka.ms/AAt8mw4.
-// builder.Services
-//     .AddApplicationInsightsTelemetryWorkerService()
-//     .ConfigureFunctionsApplicationInsights();
-
-builder.Build().Run();
+await host.RunAsync();

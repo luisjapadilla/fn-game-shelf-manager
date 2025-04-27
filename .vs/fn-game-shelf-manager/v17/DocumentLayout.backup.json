@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}|GameShelfManager.DataAccess\\GameShelfManager.DataAccess.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.dataaccess\\data\\gameshelfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}|GameShelfManager.DataAccess\\GameShelfManager.DataAccess.csproj|solutionrelative:gameshelfmanager.dataaccess\\data\\gameshelfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|solutionrelative:fn-game-shelf-manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\shelfgametagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|solutionrelative:fn-game-shelf-manager\\shelfgametagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.domain\\models\\gametag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|solutionrelative:gameshelfmanager.domain\\models\\gametag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.domain\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|solutionrelative:gameshelfmanager.domain\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|solutionrelative:fn-game-shelf-manager\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}|GameShelfManager.DataAccess\\GameShelfManager.DataAccess.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.dataaccess\\migrations\\20250426202440_initialcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}|GameShelfManager.DataAccess\\GameShelfManager.DataAccess.csproj|solutionrelative:gameshelfmanager.dataaccess\\migrations\\20250426202440_initialcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}|GameShelfManager.DataAccess\\GameShelfManager.DataAccess.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.dataaccess\\migrations\\gameshelfcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}|GameShelfManager.DataAccess\\GameShelfManager.DataAccess.csproj|solutionrelative:gameshelfmanager.dataaccess\\migrations\\gameshelfcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\fn-game-shelf-manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|solutionrelative:fn-game-shelf-manager\\fn-game-shelf-manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.domain\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|solutionrelative:gameshelfmanager.domain\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.domain\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|solutionrelative:gameshelfmanager.domain\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.domain\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|solutionrelative:gameshelfmanager.domain\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.domain\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|solutionrelative:gameshelfmanager.domain\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{438B0413-59C4-4AF7-A29E-0E72E79B9DB5}|GameShelfManager.Test\\GameShelfManager.Test.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{438B0413-59C4-4AF7-A29E-0E72E79B9DB5}|GameShelfManager.Test\\GameShelfManager.Test.csproj|solutionrelative:gameshelfmanager.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +66,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameShelfContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Migrations\\GameShelfContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "GameShelfManager.DataAccess\\Migrations\\GameShelfContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Migrations\\GameShelfContextModelSnapshot.cs",
+              "RelativeToolTip": "GameShelfManager.DataAccess\\Migrations\\GameShelfContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:37:12.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250426202440_initialContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Migrations\\20250426202440_initialContext.cs",
+              "RelativeDocumentMoniker": "GameShelfManager.DataAccess\\Migrations\\20250426202440_initialContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Migrations\\20250426202440_initialContext.cs",
+              "RelativeToolTip": "GameShelfManager.DataAccess\\Migrations\\20250426202440_initialContext.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:24:40.7Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -30,7 +108,150 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShelfGameTagManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\ShelfGameTagManager.cs",
+              "RelativeDocumentMoniker": "fn-game-shelf-manager\\ShelfGameTagManager.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\ShelfGameTagManager.cs",
+              "RelativeToolTip": "fn-game-shelf-manager\\ShelfGameTagManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:17:42.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\local.settings.json",
+              "RelativeDocumentMoniker": "fn-game-shelf-manager\\local.settings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\local.settings.json",
+              "RelativeToolTip": "fn-game-shelf-manager\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAADiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T03:11:58.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\Program.cs",
+              "RelativeDocumentMoniker": "fn-game-shelf-manager\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\Program.cs",
+              "RelativeToolTip": "fn-game-shelf-manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:11:57.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameShelfContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
+              "RelativeDocumentMoniker": "GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
+              "RelativeToolTip": "GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:10:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameTag.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\GameTag.cs",
+              "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\GameTag.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\GameTag.cs",
+              "RelativeToolTip": "GameShelfManager.Domain\\Models\\GameTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:01:48.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Tag.cs",
+              "RelativeToolTip": "GameShelfManager.Domain\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:55:02.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fn-game-shelf-manager",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\fn-game-shelf-manager.csproj",
+              "RelativeDocumentMoniker": "fn-game-shelf-manager\\fn-game-shelf-manager.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\fn-game-shelf-manager.csproj",
+              "RelativeToolTip": "fn-game-shelf-manager\\fn-game-shelf-manager.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T20:18:36.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Review.cs",
+              "RelativeToolTip": "GameShelfManager.Domain\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:54:19.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Genre.cs",
+              "RelativeToolTip": "GameShelfManager.Domain\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:53:46.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Platform.cs",
+              "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\Platform.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Platform.cs",
+              "RelativeToolTip": "GameShelfManager.Domain\\Models\\Platform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:53:15.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Game.cs",
+              "RelativeToolTip": "GameShelfManager.Domain\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:52:20.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "GameShelfManager.Test\\UnitTest1.cs",

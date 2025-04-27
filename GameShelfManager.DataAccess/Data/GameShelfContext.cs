@@ -11,10 +11,6 @@ namespace GameShelfManager.DataAccess.Data
         public DbSet<Platform> Platforms { get; set; } = null!;
         public DbSet<Review> Reviews { get; set; } = null!;
         public DbSet<Tag> Tags { get; set; } = null!;
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(Environment.GetEnvironmentVariable("connDb"));
-        }
+        public GameShelfContext(DbContextOptions<GameShelfContext> options) : base(options) { }
     }
 }

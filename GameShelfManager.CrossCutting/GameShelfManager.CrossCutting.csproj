@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GameShelfManager.DataAccess\GameShelfManager.DataAccess.csproj" />
+    <ProjectReference Include="..\GameShelfManager.Domain\GameShelfManager.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

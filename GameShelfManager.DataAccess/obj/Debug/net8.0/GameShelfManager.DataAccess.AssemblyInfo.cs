@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameShelfManager.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f38968e7bd3bb48a785f1d7c10e543266755f62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43d96f4a77502eaae12642034931e7ade515b0cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameShelfManager.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameShelfManager.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
