@@ -22,6 +22,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\GameShelfManager.CrossCutting\GameShelfManager.CrossCutting.csproj" />
     <ProjectReference Include="..\GameShelfManager.DataAccess\GameShelfManager.DataAccess.csproj" />
   </ItemGroup>
   <ItemGroup>
