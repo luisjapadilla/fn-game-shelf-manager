@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShelfManager.CrossCutti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShelfManager.DataAccess", "GameShelfManager.DataAccess\GameShelfManager.DataAccess.csproj", "{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShelfManager.Test", "GameShelfManager.Test\GameShelfManager.Test.csproj", "{438B0413-59C4-4AF7-A29E-0E72E79B9DB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShelfManager.Test", "GameShelfManager.Test\GameShelfManager.Test.csproj", "{634058A4-9A94-441F-8957-927A66EB0827}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,10 +43,10 @@ Global
 		{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}.Release|Any CPU.Build.0 = Release|Any CPU
-		{438B0413-59C4-4AF7-A29E-0E72E79B9DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{438B0413-59C4-4AF7-A29E-0E72E79B9DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{438B0413-59C4-4AF7-A29E-0E72E79B9DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{438B0413-59C4-4AF7-A29E-0E72E79B9DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634058A4-9A94-441F-8957-927A66EB0827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634058A4-9A94-441F-8957-927A66EB0827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634058A4-9A94-441F-8957-927A66EB0827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634058A4-9A94-441F-8957-927A66EB0827}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,7 +56,7 @@ Global
 		{0276A19A-1E70-4D56-9A5E-C28901AE13DC} = {4AF2849F-3ED9-458F-9CB5-88B60D0379C2}
 		{C9BC0216-0807-4B4F-8176-919E420C99AE} = {5AF0697F-8DA5-4D13-93CE-9F10B36FE8D9}
 		{3F7250B9-BCFD-44D0-AA14-E23A69DF7583} = {5AF0697F-8DA5-4D13-93CE-9F10B36FE8D9}
-		{438B0413-59C4-4AF7-A29E-0E72E79B9DB5} = {D1F32053-C820-409D-9E75-CA1BF9CF360A}
+		{634058A4-9A94-441F-8957-927A66EB0827} = {D1F32053-C820-409D-9E75-CA1BF9CF360A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9ADA1BE6-02AC-4F4C-8DB3-AF9C4C4AAC8B}
