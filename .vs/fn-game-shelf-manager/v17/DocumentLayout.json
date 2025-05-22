@@ -11,6 +11,21 @@
       "RelativeMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|solutionrelative:fn-game-shelf-manager\\shelfgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameShelf/True/SqlTable/dbo.Game.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|solutionrelative:fn-game-shelf-manager\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}|GameShelfManager.DataAccess\\GameShelfManager.DataAccess.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.dataaccess\\data\\gameshelfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}|GameShelfManager.DataAccess\\GameShelfManager.DataAccess.csproj|solutionrelative:gameshelfmanager.dataaccess\\data\\gameshelfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|solutionrelative:fn-game-shelf-manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.domain\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|solutionrelative:gameshelfmanager.domain\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,24 +36,12 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameShelfDb/True/SqlTable/dbo.Genre.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|solutionrelative:fn-game-shelf-manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|solutionrelative:fn-game-shelf-manager\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\fn-game-shelf-manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7BD5A4B9-5502-478D-AAAA-1DA44D454203}|fn-game-shelf-manager\\fn-game-shelf-manager.csproj|solutionrelative:fn-game-shelf-manager\\fn-game-shelf-manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.domain\\gameshelfmanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0276A19A-1E70-4D56-9A5E-C28901AE13DC}|GameShelfManager.Domain\\GameShelfManager.Domain.csproj|solutionrelative:gameshelfmanager.domain\\gameshelfmanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}|GameShelfManager.DataAccess\\GameShelfManager.DataAccess.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.dataaccess\\data\\gameshelfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}|GameShelfManager.DataAccess\\GameShelfManager.DataAccess.csproj|solutionrelative:gameshelfmanager.dataaccess\\data\\gameshelfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F7250B9-BCFD-44D0-AA14-E23A69DF7583}|GameShelfManager.DataAccess\\GameShelfManager.DataAccess.csproj|c:\\users\\user\\source\\repos\\fn-game-shelf-manager\\gameshelfmanager.dataaccess\\migrations\\gameshelfcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -76,7 +79,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 236,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -92,22 +95,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.Platforms [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameShelfDb/True/SqlTable/dbo.Platforms.sql",
-              "ToolTip": "dbo.Platforms [Data]",
+              "DocumentIndex": 2,
+              "Title": "dbo.Game [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameShelf/True/SqlTable/dbo.Game.sql",
+              "ToolTip": "dbo.Game [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-03T22:54:39.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.Genre [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameShelfDb/True/SqlTable/dbo.Genre.sql",
-              "ToolTip": "dbo.Genre [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-03T22:54:16.549Z",
+              "WhenOpened": "2025-05-22T03:24:31.417Z",
               "EditorCaption": ""
             },
             {
@@ -118,14 +111,14 @@
               "RelativeDocumentMoniker": "GameShelfManager.CrossCutting\\GameRepository.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.CrossCutting\\GameRepository.cs",
               "RelativeToolTip": "GameShelfManager.CrossCutting\\GameRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T23:47:23.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "GameShelfManager.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\GameShelfManager.Domain.csproj",
               "RelativeDocumentMoniker": "GameShelfManager.Domain\\GameShelfManager.Domain.csproj",
@@ -133,11 +126,12 @@
               "RelativeToolTip": "GameShelfManager.Domain\\GameShelfManager.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-03T22:26:16.908Z"
+              "WhenOpened": "2025-05-03T22:26:16.908Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "fn-game-shelf-manager.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\fn-game-shelf-manager.csproj",
               "RelativeDocumentMoniker": "fn-game-shelf-manager\\fn-game-shelf-manager.csproj",
@@ -145,7 +139,30 @@
               "RelativeToolTip": "fn-game-shelf-manager\\fn-game-shelf-manager.csproj",
               "ViewState": "AgIAABMAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-03T21:58:38.685Z"
+              "WhenOpened": "2025-05-03T21:58:38.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShelfGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\ShelfGameManager.cs",
+              "RelativeDocumentMoniker": "fn-game-shelf-manager\\ShelfGameManager.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\ShelfGameManager.cs",
+              "RelativeToolTip": "fn-game-shelf-manager\\ShelfGameManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:52:47.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Genre [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameShelfDb/True/SqlTable/dbo.Genre.sql",
+              "ToolTip": "dbo.Genre [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-03T22:54:16.549Z"
             },
             {
               "$type": "Document",
@@ -162,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "local.settings.json",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\local.settings.json",
               "RelativeDocumentMoniker": "fn-game-shelf-manager\\local.settings.json",
@@ -170,24 +187,12 @@
               "RelativeToolTip": "fn-game-shelf-manager\\local.settings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-03T21:58:36.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShelfGameManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\ShelfGameManager.cs",
-              "RelativeDocumentMoniker": "fn-game-shelf-manager\\ShelfGameManager.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\fn-game-shelf-manager\\ShelfGameManager.cs",
-              "RelativeToolTip": "fn-game-shelf-manager\\ShelfGameManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T21:52:47.784Z",
+              "WhenOpened": "2025-05-03T21:58:36.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Game.cs",
               "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\Game.cs",
@@ -200,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GameTag.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\GameTag.cs",
               "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\GameTag.cs",
@@ -208,11 +213,34 @@
               "RelativeToolTip": "GameShelfManager.Domain\\Models\\GameTag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T03:01:48.902Z"
+              "WhenOpened": "2025-04-23T03:01:48.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
+              "Title": "GameShelfContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
+              "RelativeDocumentMoniker": "GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
+              "RelativeToolTip": "GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:10:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Platforms [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameShelfDb/True/SqlTable/dbo.Platforms.sql",
+              "ToolTip": "dbo.Platforms [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-03T22:54:39.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\Tag.cs",
@@ -220,11 +248,12 @@
               "RelativeToolTip": "GameShelfManager.Domain\\Models\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T02:55:02.519Z"
+              "WhenOpened": "2025-04-23T02:55:02.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\Genre.cs",
@@ -232,11 +261,12 @@
               "RelativeToolTip": "GameShelfManager.Domain\\Models\\Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T02:53:46.893Z"
+              "WhenOpened": "2025-04-23T02:53:46.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "GameShelfContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Migrations\\GameShelfContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "GameShelfManager.DataAccess\\Migrations\\GameShelfContextModelSnapshot.cs",
@@ -244,23 +274,12 @@
               "RelativeToolTip": "GameShelfManager.DataAccess\\Migrations\\GameShelfContextModelSnapshot.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T20:37:12.112Z"
+              "WhenOpened": "2025-04-26T20:37:12.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GameShelfContext.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
-              "RelativeDocumentMoniker": "GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
-              "RelativeToolTip": "GameShelfManager.DataAccess\\Data\\GameShelfContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T03:10:31.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Review.cs",
               "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\Review.cs",
@@ -268,11 +287,12 @@
               "RelativeToolTip": "GameShelfManager.Domain\\Models\\Review.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T02:54:19.789Z"
+              "WhenOpened": "2025-04-23T02:54:19.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Platform.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.Domain\\Models\\Platform.cs",
               "RelativeDocumentMoniker": "GameShelfManager.Domain\\Models\\Platform.cs",
@@ -280,11 +300,12 @@
               "RelativeToolTip": "GameShelfManager.Domain\\Models\\Platform.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T02:53:15.751Z"
+              "WhenOpened": "2025-04-23T02:53:15.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "20250426202440_initialContext.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fn-game-shelf-manager\\GameShelfManager.DataAccess\\Migrations\\20250426202440_initialContext.cs",
               "RelativeDocumentMoniker": "GameShelfManager.DataAccess\\Migrations\\20250426202440_initialContext.cs",
@@ -292,7 +313,8 @@
               "RelativeToolTip": "GameShelfManager.DataAccess\\Migrations\\20250426202440_initialContext.cs",
               "ViewState": "AgIAAH8AAAAAAAAAAAAgwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T20:24:40.7Z"
+              "WhenOpened": "2025-04-26T20:24:40.7Z",
+              "EditorCaption": ""
             }
           ]
         },

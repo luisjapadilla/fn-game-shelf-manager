@@ -38,5 +38,14 @@ namespace fn_game_shelf_manager
             }
             return response;
         }
+
+        [Function("GetAllGames")]
+        public async Task<Game> GetAllGames(
+            [HttpTrigger(AuthorizationLevel.Function, "get")] HttpRequestData req)
+        {
+            Game gameList = new Game();
+
+            return gameList;
+        }
     }
 }
